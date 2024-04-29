@@ -129,7 +129,7 @@ Resources:
           sudo apt-get --assume-yes install awscli
           
           cd "/home/ubuntu"
-          git clone --recurse-submodules "https://github.com/Elastic/aws-workshop.git"
+          git clone --recurse-submodules "https://github.com/bct-timo-crabbe/aws-workshop.git"
           
           cd "/home/ubuntu/aws-workshop/terraform/"
           mkdir local_env
