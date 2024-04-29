@@ -64,7 +64,7 @@ sudo apt-get --assume-yes install python3-pip
 
 echo "Clone repo"
 cd "/home/ubuntu"
-git clone --recurse-submodules "https://github.com/Elastic/aws-workshop.git"
+git clone --recurse-submodules "https://github.com/bct-timo-crabbe/aws-workshop.git"
 
 echo "Install lambda function"
 cd "/home/ubuntu/aws-workshop/aws-lambda/lambda-application"
